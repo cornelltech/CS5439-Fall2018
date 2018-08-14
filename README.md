@@ -40,13 +40,15 @@ Students should have knowledge of contemporary consumer technologies
 
 ### Requirements
 
-The class will involve a combination of lectures, in-class exercises,
-and homeworks. You'll be graded according to the following:
+The class will involve a combination of lectures, in-class exercises, readings,
+and homeworks. Readings for a lecture should be completed before lecture. 
+You'll be graded according to the following:
 
 * Participation: 20%
 * Homeworks:  80% (each homework will count an equal amount)
 
 There will likely be opportunities for extra credit, as well.  
+
 
 
 ### Background reading and Lecture notes
