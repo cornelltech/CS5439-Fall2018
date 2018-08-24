@@ -67,20 +67,20 @@ For an easy introduction to some of the issues, check out a mainstream [press ar
 A very preliminary schedule is shown below. It will be updated with topics and associated
 readings as we progress.
 
-| Date |  Topic  |  Speaker | Readings |
-|------|---------|----------|----------|
-| Aug 29 | Intro & overview | Tom | 
-| Sep 5 | IPV 101  | Hannah Pennington (OCDV) | [Freed et al. 2018](https://www.ipvtechresearch.org/pubs/a046-freed.pdf)  |
-| Sep 12 | Device monitoring   | Tom  | [Freed et al. 2018](https://www.ipvtechresearch.org/pubs/stalkers-paradise-intimate.pdf) |
-| Sep 19 | Spyware apps   |  Tom | [Chatterjee et al. 2018](https://www.ipvtechresearch.org/pubs/spyware.pdf) |
+| Date |  Topic  |  Speaker | Readings | Homework |
+|------|---------|----------|----------|----------|
+| Aug 29 | Intro & overview | Tom | |
+| Sep 5 | IPV 101  | Hannah Pennington (OCDV) | [Freed et al. 2018](https://www.ipvtechresearch.org/pubs/a046-freed.pdf)  | [HW1](https://github.com/freed18/IPVpedia/wiki/Homework-1) |
+| Sep 12 | Device monitoring   | Tom  | [Freed et al. 2018](https://www.ipvtechresearch.org/pubs/stalkers-paradise-intimate.pdf) | |
+| Sep 19 | Spyware apps   |  Tom | [Chatterjee et al. 2018](https://www.ipvtechresearch.org/pubs/spyware.pdf) | |
 | Sep 26 | TBA   | Andrew Sta. Ana (New York Law School, Day One)| |
 | Oct 3 | Internet of things | Tom  |  |
-| Oct 10 | Account compromise | Tom   |
+| Oct 10 | Account compromise | Tom   | |
 | Oct 17 | Abusive messages/content  | Tom  |
-| Oct 24 | Information disclosure  (``doxxing'', non-consensual intimate imagery, fake accounts) | Tom  | |
-| Oct 31 |  Online harassment cases, the law | [Carrie Goldberg](http://www.cagoldberglaw.com/)  | |
-| Nov 7 | TBA |   | |
-| Nov 14 |Prosecuting stalking and other abuse  | Michelle Kaminsky (Kings County DA)  | |
-| Nov 21 | TBA  |  | | 
-| Nov 28 |  TBA  |  | |
+| Oct 24 | Information disclosure  (``doxxing'', non-consensual intimate imagery, fake accounts) | Tom  | | |
+| Oct 31 |  Online harassment cases, the law | [Carrie Goldberg](http://www.cagoldberglaw.com/)  | | |
+| Nov 7 | TBA |   | | |
+| Nov 14 |Prosecuting stalking and other abuse  | Michelle Kaminsky (Kings County DA)  | | |
+| Nov 21 | TBA  |  | | |
+| Nov 28 |  TBA  |  | | |
 
