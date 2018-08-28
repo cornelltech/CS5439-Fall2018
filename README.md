@@ -28,7 +28,7 @@ Instructor: Tom Ristenpart (https://rist.tech.cornell.edu)
 
 Office hours: By appointment
 
-TA: Diana Freed (https://infosci.cornell.edu/content/freed)
+TA: Diana Freed dlf92@cornell.edu (https://infosci.cornell.edu/content/freed)
 
 Office hours: By appointment
 
