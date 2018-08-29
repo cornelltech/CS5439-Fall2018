@@ -48,6 +48,17 @@ and homeworks. Readings for a lecture should be completed before lecture. All ho
 
 There will likely be opportunities for extra credit, as well.  
 
+For those taking a third unit via independent study, there will additionally be
+a course project. You will receive the same grade across both independent study
+and the 2-unit portion fo the course. Grading will be broken down according to
+the following:
+
+* Participation: 20%
+* Homeworks: 50% (each homework will count an equal amount)
+* Project: 30%
+
+
+
 
 
 ### Background reading and Lecture notes
@@ -67,9 +78,9 @@ For an easy introduction to some of the issues, check out a mainstream [press ar
 A very preliminary schedule is shown below. It will be updated with topics and associated
 readings as we progress.
 
-| Date |  Topic  |  Speaker | Readings | Homework |
-|------|---------|----------|----------|----------|
-| Aug 29 | Intro & overview | Tom | |
+| Date |  Topic  |  Speaker | Readings | Homework | Slides |
+|------|---------|----------|----------|----------|--------|
+| Aug 29 | Intro & overview | Tom | | [Slides](slides/intro.pdf) |
 | Sep 5 | IPV 101  | Hannah Pennington (OCDV) | [Freed et al. 2018](https://www.ipvtechresearch.org/pubs/a046-freed.pdf)  | [HW1](https://github.com/freed18/IPVpedia/wiki/Homework-1) due 9/2 by midnight|
 | Sep 12 | Device monitoring   | Tom  | [Freed et al. 2018](https://www.ipvtechresearch.org/pubs/stalkers-paradise-intimate.pdf) | |
 | Sep 19 | Spyware apps   |  Tom | [Chatterjee et al. 2018](https://www.ipvtechresearch.org/pubs/spyware.pdf) | |
