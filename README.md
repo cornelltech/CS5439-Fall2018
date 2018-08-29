@@ -80,7 +80,7 @@ readings as we progress.
 
 | Date |  Topic  |  Speaker | Readings | Homework | Slides |
 |------|---------|----------|----------|----------|--------|
-| Aug 29 | Intro & overview | Tom | | | |[Slides](slides/intro.pdf) |
+| Aug 29 | Intro & overview | Tom | | | [Slides](slides/intro.pdf) |
 | Sep 5 | IPV 101  | Hannah Pennington (OCDV) | [Freed et al. 2018](https://www.ipvtechresearch.org/pubs/a046-freed.pdf)  | [HW1](https://github.com/freed18/IPVpedia/wiki/Homework-1) due 9/2 by midnight|
 | Sep 12 | Device monitoring   | Tom  | [Freed et al. 2018](https://www.ipvtechresearch.org/pubs/stalkers-paradise-intimate.pdf) | |
 | Sep 19 | Spyware apps   |  Tom | [Chatterjee et al. 2018](https://www.ipvtechresearch.org/pubs/spyware.pdf) | |
