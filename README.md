@@ -91,7 +91,7 @@ readings as we progress.
 | Oct 24 | Information disclosure  (``doxxing'', non-consensual intimate imagery, fake accounts) | Tom  | | |
 | Oct 31 |  Online harassment cases, the law | [Carrie Goldberg](http://www.cagoldberglaw.com/)  | | |
 | Nov 7 | TBA |   | | |
-| Nov 14 |Prosecuting stalking and other abuse  | Michelle Kaminsky (Kings County DA)  | | |
+| Nov 14 |Prosecuting stalking and other abuse  | Michelle Kaminsky (Chief, Domestic Violence Bureau, Kings County District Attorney’s Office)  | | |
 | Nov 21 | TBA  |  | | |
 | Nov 28 |  TBA  |  | | |
 
