@@ -82,7 +82,7 @@ readings as we progress.
 |------|---------|----------|----------|----------|--------|
 | Aug 29 | Intro & overview | Tom | | | [Slides](slides/intro.pdf) |
 | Sep 5 | IPV 101  | Hannah Pennington, Assistant Commissioner for Policy and Training ([OCDV](https://www1.nyc.gov/site/ocdv/about/about-ocdv.page)) |Required reading: [Freed et al. 2018](https://www.ipvtechresearch.org/pubs/a046-freed.pdf) Suggested reading: [Domestic Violence: Intersectionality and Culturally Competent Practice](https://github.com/freed18/IPVpedia/blob/master/readings/DannisBhandariDV.pdf) | [HW1](https://github.com/freed18/IPVpedia/wiki/Homework-1) due 9/2 by midnight|
-| Sep 12 | Account Security | Tom  | [Freed et al. 2018](https://www.ipvtechresearch.org/pubs/stalkers-paradise-intimate.pdf) |[HW2](https://github.com/freed18/IPVpedia/wiki/Homework-2) due 9/9 by midnight |
+| Sep 12 | Account Compromise | Tom  | [Freed et al. 2018](https://www.ipvtechresearch.org/pubs/stalkers-paradise-intimate.pdf) |[HW2](https://github.com/freed18/IPVpedia/wiki/Homework-2) due 9/9 by midnight |
 | Sep 19 | Cyberharassment Legal Clinic| Andrew Sta. Ana ([New York Law School](https://www.nyls.edu/innovation-center-for-law-and-technology/institutes-and-programs/institute-for-cybersafety/), [Day One](https://www.dayoneny.org))| |
 | Sep 26| Spyware apps| Tom | [Chatterjee et al. 2018](https://www.ipvtechresearch.org/pubs/spyware.pdf) | |
 | Oct 3 | Internet of things | Tom  |  |
