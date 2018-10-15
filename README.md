@@ -86,7 +86,7 @@ readings as we progress.
 | Sep 19 | Cyberharassment Legal Clinic| Andrew Sta. Ana ([New York Law School](https://www.nyls.edu/innovation-center-for-law-and-technology/institutes-and-programs/institute-for-cybersafety/), [Day One](https://www.dayoneny.org))|["A Stalkers Paradise" How Intimate Partner Abusers Exploit Technology. Freed et al. 2018](https://www.ipvtechresearch.org/pubs/stalkers-paradise-intimate.pdf)| [HW3](https://github.com/freed18/IPVpedia/wiki/Homework-3) due 9/24 by midnight|[Slides](https://github.com/freed18/IPVpedia/blob/master/Cyberharassment%2CVictims%20%26%20the%20Law_CORNELL%20TECH_DECK.pdf)|  
 | Sep 26| Spyware apps| Tom | [Chatterjee et al. 2018](https://www.ipvtechresearch.org/pubs/spyware.pdf) | |[Slides](https://github.com/cornelltech/CS5439-Fall2018/blob/master/slides/spyware.pdf)|
 | Oct 3 | Internet of things | Tom  |[Thermostats, Locks and Lights: Digital Tools of Domestic Abuse](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html) | [HW4](https://github.com/freed18/IPVpedia/wiki/Homework-4) due 10/9 by midnight | [Slides](https://github.com/cornelltech/CS5439-Fall2018/blob/master/slides/iot.pdf)|
-| Oct 10 | Abusive messages/content  | Tom   | |
+| Oct 10 | Abusive messages/content  | Tom   |||[Slides](https://github.com/cornelltech/CS5439-Fall2018/blob/master/slides/abusivemsgs.pdf)| 
 | Oct 17 | Information disclosure  (``doxxing'', non-consensual intimate imagery, fake accounts) | Tom  |
 | Oct 24 |TBA  | Tom  | | |
 | Oct 31 |  Online harassment cases, the law | [Carrie Goldberg](http://www.cagoldberglaw.com/)  | | |
