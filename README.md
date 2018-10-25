@@ -88,7 +88,7 @@ readings as we progress.
 | Oct 3 | Internet of things | Tom  |[Thermostats, Locks and Lights: Digital Tools of Domestic Abuse](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html) | [HW4](https://github.com/freed18/IPVpedia/wiki/Homework-4) due 10/9 by midnight | [Slides](https://github.com/cornelltech/CS5439-Fall2018/blob/master/slides/iot.pdf)|
 | Oct 10 | Abusive messages/content  | Tom   ||[HW5](https://github.com/freed18/IPVpedia/wiki/Homework-5) due 10/22 by midnight |[Slides](https://github.com/cornelltech/CS5439-Fall2018/blob/master/slides/abusivemsgs.pdf)| 
 | Oct 17 | Information disclosure  (``doxxing'', non-consensual intimate imagery, fake accounts) | Tom  || |[Slides](https://github.com/cornelltech/CS5439-Fall2018/blob/master/slides/infodisclosure.pdf)|
-| Oct 24 |Clinical Models for Computer Security | Tom  | | |
+| Oct 24 |Clinical Models for Computer Security | Tom  | | |[Slides](https://github.com/cornelltech/CS5439-Fall2018/blob/master/slides/clinical.pdf)
 | Oct 31 |  Online harassment cases, the law | [Carrie Goldberg](http://www.cagoldberglaw.com/)  | | |
 | Nov 7 | TBA |   | | |
 | Nov 14 |Prosecuting stalking and other abuse  | Michelle Kaminsky (Chief, Domestic Violence Bureau, Kings County District Attorney’s Office)  | | |
