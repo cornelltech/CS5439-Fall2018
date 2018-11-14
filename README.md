@@ -92,6 +92,6 @@ readings as we progress.
 | Oct 31 |  Online harassment cases, the law | [Carrie Goldberg](http://www.cagoldberglaw.com/)  |[The One Law That's The Cause of Everything Good and Terrible About the Internet](https://www.huffingtonpost.com/entry/online-harassment-section-230_us_5b4f5cc1e4b0de86f488df86) and [Herrick v. Grindr](http://www.cagoldberglaw.com/matthew-herrick-v-grindr-llc/)|[HW6]( https://github.com/freed18/IPVpedia/wiki/Homework-6) due by midnight 11/6||
 | Nov 7 | Abuser-aware HCI |Tom  | ||[Slides](https://github.com/cornelltech/CS5439-Fall2018/blob/master/slides/aahci.pdf)|
 | Nov 14 |Prosecuting stalking and other abuse  | Michelle Kaminsky (Chief, Domestic Violence Bureau, Kings County District Attorney’s Office)  | | |
-| Nov 21 | TBA  |  | | |
+| Nov 21 | no class |  | | |
 | Nov 28 |  TBA  |  | | |
 
