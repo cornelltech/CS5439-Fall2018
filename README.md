@@ -93,5 +93,5 @@ readings as we progress.
 | Nov 7 | Abuser-aware HCI |Tom  | ||[Slides](https://github.com/cornelltech/CS5439-Fall2018/blob/master/slides/aahci.pdf)|
 | Nov 14 |Prosecuting stalking and other abuse  | Michelle Kaminsky (Chief, Domestic Violence Bureau, Kings County District Attorney’s Office)  | | |
 | Nov 21 | No Class |  | | |
-| Nov 28 |  TBA  |  | | |
+| Nov 28 | Case Studies |  | | [HW7](https://github.com/freed18/IPVpedia/wiki/Homework-7) due at the start of class on 11/28||
 
